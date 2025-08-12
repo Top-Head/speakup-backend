@@ -1,14 +1,16 @@
 blinker==1.9.0
-dotenv
-flask-cors
 certifi==2025.8.3
 charset-normalizer==3.4.3
 click==8.2.1
 click-default-group==1.2.4
+dotenv==0.9.9
 faiss-cpu==1.11.0.post1
 filelock==3.18.0
 Flask==3.1.1
+flask-cors==6.0.1
+Flask-SQLAlchemy==3.1.1
 fsspec==2025.7.0
+greenlet==3.2.4
 hf-xet==1.1.7
 huggingface-hub==0.34.4
 idna==3.10
@@ -37,6 +39,7 @@ packaging==25.0
 pillow==11.3.0
 pluggy==1.6.0
 python-dateutil==2.9.0.post0
+python-dotenv==1.1.1
 PyYAML==6.0.2
 regex==2025.7.34
 requests==2.32.4
@@ -46,6 +49,7 @@ scipy==1.16.1
 sentence-transformers==5.1.0
 setuptools==80.9.0
 six==1.17.0
+SQLAlchemy==2.0.43
 sqlite-fts4==1.0.3
 sqlite-utils==3.38
 sympy==1.14.0
